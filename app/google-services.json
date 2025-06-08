@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "604155727791",
+    "firebase_url": "https://pamuap-egayurcel-default-rtdb.firebaseio.com",
+    "project_id": "pamuap-egayurcel",
+    "storage_bucket": "pamuap-egayurcel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604155727791:android:2eb65284b2bb400f2c695a",
+        "android_client_info": {
+          "package_name": "com.example.pamuap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Yvk9NtzcHi4PVObU4QEWNUOo8kSg3ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
